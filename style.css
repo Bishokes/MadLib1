@@ -1,0 +1,24 @@
+h3{
+	background-color:black;
+	font-family: 'Supermercado One', cursive;
+
+	font-size: 300%;
+	color:white;
+	border: 7px double red;
+	padding: 20px 20px 20px 20px
+}
+.word{
+	color: red;
+}
+body{
+	background-color:black;
+	background-image: url("https://wallpaperaccess.com/full/306704.jpg");
+ 
+	background-repeat: no-repeat;
+	background-size:200%;
+	background-attachment:fixed;
+	background-position:bottom left;
+}
+span{
+	color: red;
+}
